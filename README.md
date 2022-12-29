@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/nginx-golang-postgres)
+[Open in Docker Dev Environments <img src="https://user-images.githubusercontent.com/110657529/209976665-d9412cfe-76e7-4aa2-add5-ae5f73ae9f8a.png" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/nginx-golang-postgres)
 
 ### Go server with an Nginx proxy and a Postgres database
 
@@ -24,7 +24,7 @@ Project structure:
 └── README.md
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 ```shell
 services:
   backend:
